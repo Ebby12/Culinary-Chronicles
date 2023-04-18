@@ -1,10 +1,35 @@
-img {
-    width: 300px;
-    border-radius: 5px;
+
+body{
+    background-color: bisque;
+
 }
 
-figure {
-    background-color: blanchedalmond;
-    justify-content: center;
-    align-content: center;
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+   
+   
+    
 }
+h3{
+    color: blueviolet;
+    font: 200;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline;
+    
+    
+}
+
+#cusine1 {
+    border: solid;
+}
+
+#cusine2{
+    border: solid salmon
+}
+
+nav1{
+    background-color: salmon;
+}
+
