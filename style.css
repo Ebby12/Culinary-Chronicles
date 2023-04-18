@@ -1,0 +1,10 @@
+img {
+    width: 300px;
+    border-radius: 5px;
+}
+
+figure {
+    background-color: blanchedalmond;
+    justify-content: center;
+    align-content: center;
+}
